@@ -2,7 +2,7 @@
   "name": "snake",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sribinai.github.io/snake-puzzle-app",
+  "homepage": "https://sribinai.github.io/snakepuzzle",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
