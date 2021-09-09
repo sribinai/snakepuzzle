@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/snakepuzzle/static/css/main.fd7ba1b5.chunk.css",
+    "main.js": "/snakepuzzle/static/js/main.96a9ebf0.chunk.js",
+    "main.js.map": "/snakepuzzle/static/js/main.96a9ebf0.chunk.js.map",
+    "runtime-main.js": "/snakepuzzle/static/js/runtime-main.f3392026.js",
+    "runtime-main.js.map": "/snakepuzzle/static/js/runtime-main.f3392026.js.map",
+    "static/css/2.f2512455.chunk.css": "/snakepuzzle/static/css/2.f2512455.chunk.css",
+    "static/js/2.83f83e60.chunk.js": "/snakepuzzle/static/js/2.83f83e60.chunk.js",
+    "static/js/2.83f83e60.chunk.js.map": "/snakepuzzle/static/js/2.83f83e60.chunk.js.map",
+    "static/js/3.d81c1884.chunk.js": "/snakepuzzle/static/js/3.d81c1884.chunk.js",
+    "static/js/3.d81c1884.chunk.js.map": "/snakepuzzle/static/js/3.d81c1884.chunk.js.map",
+    "index.html": "/snakepuzzle/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/snakepuzzle/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.fd7ba1b5.chunk.css.map": "/snakepuzzle/static/css/main.fd7ba1b5.chunk.css.map",
+    "static/js/2.83f83e60.chunk.js.LICENSE.txt": "/snakepuzzle/static/js/2.83f83e60.chunk.js.LICENSE.txt",
+    "static/media/apple.1bfbdcbc.gif": "/snakepuzzle/static/media/apple.1bfbdcbc.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3392026.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.83f83e60.chunk.js",
+    "static/css/main.fd7ba1b5.chunk.css",
+    "static/js/main.96a9ebf0.chunk.js"
+  ]
+}
